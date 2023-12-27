@@ -1,8 +1,8 @@
-# Roasberry Full stack Developer Position Case Study
+# Roasberry Full Stack Developer Position Case Study
 
 ## Object
 
-Case Study: Building a Shopify Integration with Visualization for E-Commerce Analytics
+Building a Shopify Integration with Visualization for E-Commerce Analytics
 
 ## This Project
 
