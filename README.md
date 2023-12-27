@@ -1,8 +1,23 @@
-# React + Vite
+# Roasberry Full stack Developer Position Case Study
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Object
 
-Currently, two official plugins are available:
+Case Study: Building a Shopify Integra4on with Visualiza4on for E-Commerce Analy4cs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## This Project
+
+This project created with following tech stack;
+
+- react-query for backend state handling
+- chartjs and react-chartjs-2 for creating charts
+- tailwindcss for styling
+
+## To Run
+
+Project created with Vite and React. To run project execute following commands in console. I used pnpm but you can use any package manager.
+- pnpm i
+- pnpm run dev
+
+## Deployment
+
+I deployed project on Render. You can visit [here](https://case-roasberry-ui.onrender.com)
