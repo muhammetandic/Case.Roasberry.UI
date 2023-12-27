@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { useState } from "react";
 
 const ThemeToggle = () => {
-  const [darkMode, setDarkMode] = useState(localStorage.getItem("theme") || false);
+  const [darkMode, setDarkMode] = useState(localStorage.getItem("darkMode") === "true");
 
   useEffect(() => {
     document.documentElement.classList.toggle('dark', darkMode);
@@ -13,7 +13,7 @@ const ThemeToggle = () => {
     setDarkMode(!darkMode);
     localStorage.setItem("theme", darkMode);
   }
-  console.log(darkMode);
+
   return (
     <div>
       <input
